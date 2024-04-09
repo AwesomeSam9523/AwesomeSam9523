@@ -1,4 +1,8 @@
-Hi, Great to see you here! 👋
+## Hi, great to see you here! 👋
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" />
 
 I am Samaksh Gupta, student at Manipal University Jaipur. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
