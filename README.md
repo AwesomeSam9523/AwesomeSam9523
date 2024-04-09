@@ -59,9 +59,6 @@ Find out more about me & feel free to connect with me here:
   <img src="https://streak-stats.demolab.com?user=awesomesam9523&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+### Profile Views:
 
-
-
-
-
-
+<img src="https://profile-counter.glitch.me/awesomesam9523/count.svg" />
