@@ -14,7 +14,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Samaksh%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/samakshgupta04/)](https://www.linkedin.com/in/samakshgupta04/)
-[![Gmail Badge](https://img.shields.io/badge/-contact@awesomesam.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@awesomesam.dev)](mailto:contact@awesomesam.dev)
+[![Gmail Badge](https://img.shields.io/badge/-contact@awesomesam.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@awesomesam.dev)](mailto:contact@awesomesam.dev)
 <img src="https://wakatime.com/badge/user/97e89615-a432-497d-bcf2-77995e64b681.svg?style=flat" alt="wakatime" />
 
 
