@@ -7,7 +7,7 @@
 <h2> 🙋🏻 About me </h2>
 
 <p align="left">
-✨ Full Stack Developer <br>
+✨ Full Stack Developer. <br>
 📆 Developing since 2020. <br>
 💻 Tech Enthusiast & an open-source advocate. <br>
 🚀 Visit my personal website <a href="https://awesomesam.dev" target="_blank">here</a>. <br>
