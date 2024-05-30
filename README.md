@@ -10,6 +10,7 @@
 ✨ Full Stack Developer. <br>
 📆 Developing since 2019. <br>
 💻 Tech Enthusiast & an open-source advocate. <br>
+🎓 ICPC Regionalist, 2023, <br>
 🚀 Visit my personal website <a href="https://awesomesam.dev" target="_blank">here</a>. <br>
 </p>
 
