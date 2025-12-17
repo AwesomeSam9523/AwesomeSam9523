@@ -9,7 +9,7 @@
 📆 Developing since 2019. <br>
 💻 Tech Enthusiast & an open-source advocate. <br>
 🎓 ICPC Regionalist, 2023. <br>
-🚀 Visit my personal website <a href="https://awesomesam.dev" target="_blank">here</a>. <br>
+🚀 Visit my personal website <a href="https://awesomesam.com" target="_blank">here</a>. <br>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Samaksh%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/samakshgupta04/)](https://www.linkedin.com/in/samakshgupta04/)
